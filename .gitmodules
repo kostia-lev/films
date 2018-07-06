@@ -1,3 +1,0 @@
-[submodule "json-server"]
-	path = json-server
-	url = ../../typicode/json-server.git
