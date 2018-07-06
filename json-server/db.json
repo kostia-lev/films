@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "films": [
+    {
+      "id": "1",
+      "name": "Terminator",
+      "year": "1986",
+      "format": "VHS",
+      "actors": [
+        "Arnold"
+      ]
+    },
+    {
+      "name": "The Saw",
+      "year": "2019",
+      "format": "Blu-Ray",
+      "actors": [
+        "Arnold Shwarzeneggerr",
+        " Yuri Nikulin",
+        " Rambo"
+      ],
+      "id": "SkcFhxnGX"
+    },
+    {
+      "name": "Rambo",
+      "year": "1980",
+      "format": "Blu-Ray",
+      "actors": [
+        "Silvester Stallone",
+        " Chuck norris"
+      ],
+      "id": "SyTRfbnG7"
+    },
+    {
+      "name": "Hatzker",
+      "year": "2018",
+      "format": "DVD",
+      "actors": [
+        "Stallone",
+        "Sh"
+      ],
+      "id": "HywgQbnfQ"
+    },
+    {
+      "name": "yo",
+      "year": "2018",
+      "format": "DVD",
+      "actors": [
+        "Stallone",
+        " Chuck norris"
+      ],
+      "id": "H1_Qmbnf7"
+    },
+    {
+      "name": "admin",
+      "year": "2018",
+      "format": "DVD",
+      "actors": [
+        "Arnold Shwarzeneggerr",
+        " Yuri Nikulin",
+        " yo"
+      ],
+      "id": "SJnhmb3GQ"
+    }
+  ]
+}
